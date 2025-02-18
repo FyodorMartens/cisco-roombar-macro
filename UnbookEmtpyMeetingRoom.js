@@ -1,7 +1,6 @@
 /**
  * Topic: Releasing the room when no one is attending
  * Author: fyodormartens@gmail.com (Modified to fix stack overflow and newline errors)
- * Team: collaboration FRANCE
  * Version: 1.0
  */
 
